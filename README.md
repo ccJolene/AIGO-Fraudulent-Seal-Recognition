@@ -86,7 +86,7 @@ for line in ocr_result:
 
 ## 成果展示
 
-![文字辨識結果](figure/output_with_bboxes_val10.png)
+<img src="figure/output_with_bboxes_val10.png" alt="文字辨識結果" width="50%" />
 
 ### 定量成果
 - **辨識準確率**：超過 98%。
