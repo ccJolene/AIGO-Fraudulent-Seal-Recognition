@@ -1,0 +1,7 @@
+.DS_Store
+data/gov_dataset.zip
+data/augmentation_images.zip
+final/花生省魔術Demo.mp4
+model/*.pth
+data/驗證印鑑圖片.zip
+AI_good
